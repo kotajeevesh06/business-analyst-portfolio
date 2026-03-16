@@ -1,0 +1,34 @@
+Order Management System (OMS) – Problem Statement
+Business Problem
+In many e-commerce companies, managing customer orders can be difficult because different teams use separate tools and manual processes. Orders may be tracked in spreadsheets, inventory may be managed in another system, and delivery updates may come from a different platform. Because these systems are not connected, it becomes hard to manage orders smoothly.
+As a result, companies often face several problems.
+First, order tracking is done manually, which increases the chances of mistakes and slows down the process.
+Second, shipments are sometimes delayed because warehouse teams, inventory teams, and delivery partners are not always working with real-time information.
+Another issue is inventory mismatch. Sometimes products appear available in the system but are out of stock, which leads to order cancellations and unhappy customers.
+Customers also struggle with lack of order visibility. After placing an order, they may not know whether the order is confirmed, packed, shipped, or delivered.
+These issues create operational challenges such as:
+•	slower order processing
+•	communication gaps between teams
+•	customer dissatisfaction
+•	increased workload for employees
+If the company continues using manual systems, it becomes difficult to handle many orders as the business grows.
+Proposed Solution
+To solve these problems, the company wants to build an Order Management System (OMS).
+The OMS will bring all order-related activities into one system so that teams can manage orders more efficiently.
+The system will help automate the entire order process, including:
+•	customers placing orders
+•	checking product availability in inventory
+•	confirming payments
+•	managing warehouse packing and shipping
+•	tracking deliveries in real time
+With this system, all teams will work using the same platform, which improves coordination and reduces delays.
+Project Goal
+The goal of this project is to design an Order Management System that manages the complete order lifecycle — from the moment a customer places an order until the product is delivered.
+The system aims to:
+•	simplify order management
+•	reduce manual work
+•	improve order tracking and transparency
+•	ensure accurate inventory management
+•	improve customer experience with real-time updates
+By implementing this system, the company can handle orders faster, reduce errors, and provide a better service to customers.
+
